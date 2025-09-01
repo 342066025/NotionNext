@@ -60,23 +60,23 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'BSW',
-      img_1: 'public/images/heo/BS.png',
+      img_1: '/images/heo/BS.png',
       color_1: '#ffffff',
       title_2: 'CAXA',
-      img_2: 'public/images/heo/CAXA.png',
+      img_2: '/images/heo/CAXA.png',
       color_2: '#ffffff'
     },
     {
       title_1: 'ansys',
-      img_1: 'public/images/heo/ansys.png',
+      img_1: '/images/heo/ansys.png',
       color_1: '#57b6e6',
       title_2: 'notion',
-      img_2: 'public/images/heo/notion.png',
+      img_2: '/images/heo/notion.png',
       color_2: '#ffffff'
     },
     {
       title_1: 'Zemax',
-      img_1: 'public/images/heo/zemax.png',
+      img_1: '/images/heo/zemax.png',
       color_1: '#ffffff',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
